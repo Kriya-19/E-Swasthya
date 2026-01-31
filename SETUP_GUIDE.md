@@ -41,9 +41,7 @@ Add the following to `backend/.env`:
 
 ```env
 # MongoDB Connection String
-MONGO_URI=mongodb://localhost:27017/thakur-hack
 # Or use MongoDB Atlas:
-# MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/thakur-hack
 
 # Server Port (optional, defaults to 5001)
 PORT=5001
