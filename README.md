@@ -373,8 +373,6 @@ This project is open source and available under the MIT License.
 - [ ] Prescription refill automation
 - [ ] Telemedicine group consultations
 
-## 📞 Support
-
 For issues and questions, please create an issue in the repository.
 
 ---
